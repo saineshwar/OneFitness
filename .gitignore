@@ -1,0 +1,34 @@
+# ---- .NET (OneFitnessAPIs) ----
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.rsuser
+TestResults/
+
+# Local secrets: copy appsettings.Development.example.json to appsettings.Development.json
+appsettings.Development.json
+appsettings.*.local.json
+
+# ---- Node / Next.js (OneFitnessUI) ----
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+next-env.d.ts
+.env*
+!.env.example
+
+# ---- Editors / OS ----
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+
+# ---- AI assistant files ----
+CLAUDE.md
+CLAUDE.local.md
+.claude/
+AGENTS.md

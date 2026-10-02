@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="OneFitness.API/OneFitness.API.csproj" />
+  <Project Path="OneFitness.Common/OneFitness.Common.csproj" />
+  <Project Path="OneFitness.Entities/OneFitness.Entities.csproj" />
+  <Project Path="OneFitness.Repository/OneFitness.Repository.csproj" />
+  <Project Path="OneFitness.Services/OneFitness.Services.csproj" />
+  <Project Path="OneFitness.ViewModel/OneFitness.ViewModel.csproj" />
+</Solution>
